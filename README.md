@@ -3,11 +3,12 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Hi, I'm Senku Lokesh
 
 ```ascii
- ____            _          _          _               _        _     
-/ ___|  ___  _ __| | ___   | |    ___ | | _____  ___| |__    | |    
-\___ \ / _ \| '_ \ |/ / | | |   / _ \| |/ / _ \/ __| '_ \   | |    
- ___) |  __/| | | |   <| |_| |  | (_) |   <  __/\__ \ | | |  |_|    
-|____/ \___||_| |_|_|\_\\___/    \___/|_|\_\___||___/_| |_|  (_)    
+  _          _               _     
+| |        | |             | |    
+| |     ___| | _____  ___| |__  
+| |    / _ \ |/ / _ \/ __| '_ \ 
+| |___|  __/   <  __/\__ \ | | |
+|______\___|_|\_\___||___/_| |_|
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Github+🚀;I'm+a+Full+Stack+Developer;I'm+an+AI+ML+Engineer;Code+is+Poetry+%7C+Poetry+is+Code;Building+Intelligent+Systems;Open+Source+Enthusiast)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
