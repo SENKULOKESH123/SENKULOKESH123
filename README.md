@@ -3,7 +3,7 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Hi, I'm Senku Lokesh
 
 ```ascii
-  _          _               _     
+ _          _               _     
 | |        | |             | |    
 | |     ___| | _____  ___| |__  
 | |    / _ \ |/ / _ \/ __| '_ \ 
@@ -75,12 +75,6 @@ me.say_hi()
                                       │
                               [FULL STACK MAGIC ✨]
 ```
-
----
-
-## 📊 GitHub Statistics
-
-[![Senku Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SENKULOKESH123&show_icons=true&theme=tokyonight)](https://github.com/SENKULOKESH123)
 
 ---
 
