@@ -60,7 +60,10 @@ me.say_hi()
 
 ## 🛠️ Full Stack Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github)](https://skillicons.dev)
+**Frontend:** HTML, CSS, JavaScript, React.js<br>
+**Backend:** Node.js, Express.js, Python<br>
+**Databases:** MongoDB, MySQL<br>
+**Tools:** Git, GitHub
 
 ```ascii
      [FRONTEND]          [BACKEND]          [DATABASE]          [TOOLS]
