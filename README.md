@@ -11,7 +11,7 @@
 |______\___|_|\_\___||___/_| |_|
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Github+🚀;I'm+a+Full+Stack+Developer;I'm+an+AI+ML+Engineer;Code+is+Poetry+%7C+Poetry+is+Code;Building+Intelligent+Systems;Open+Source+Enthusiast)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Github+🚀;I'm+a+4th+Year+Student;I'm+Learning+Full+Stack+Development;Building+Web+Applications;Open+Source+Enthusiast)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 </div>
 
@@ -25,9 +25,9 @@
 class Developer:
     def __init__(self):
         self.name = "Senku Lokesh"
-        self.role = "Full Stack Developer & AI/ML Engineer"
+        self.role = "4th Year Student & Full Stack Developer"
         self.location = "Earth 🌍"
-        self.code = ["Python", "JavaScript", "Java", "C++"]
+        self.code = ["HTML", "CSS", "JavaScript", "Python"]
         self.motto = "Code is Poetry, Poetry is Code"
 
     def say_hi(self):
@@ -58,17 +58,17 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Full Stack Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,cpp,react,nextjs,tailwind,django,flask,fastapi,tensorflow,pytorch,docker,kubernetes,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github)](https://skillicons.dev)
 
 ```ascii
-     [FRONTEND]          [BACKEND]           [AI/ML]           [DEVOPS]
+     [FRONTEND]          [BACKEND]          [DATABASE]          [TOOLS]
          │                   │                  │                  │
    ┌────┴────┐         ┌────┴────┐        ┌────┴──-──┐      ┌────┴────┐
-   │  React  │         │ Django  │        │TensorFlow│      │ Docker  │
-   │ Next.js │────────▶│  Flask  │──────▶│  PyTorch │───────▶│Kubernetes│
-   │Tailwind │         │ FastAPI │        │Scikit-L  │      │   AWS   │
+   │  HTML   │         │ Node.js │        │ MongoDB  │      │   Git   │
+   │   CSS   │────────▶│ Express │──────▶│  MySQL   │───────▶│ GitHub  │
+   │React.js │         │ Python  │        │          │      │         │
    └─────────┘         └─────────┘        └─────────┘      └─────────┘
          │                   │                  │                  │
          └───────────────────┴──────────────────┴──────────────────┘
@@ -90,13 +90,13 @@ me.say_hi()
 
 ```diff
 @@ Current Focus @@
-+ 🔭 Building AI-powered web applications
-+ 🌱 Learning advanced ML & Deep Learning
++ 🔭 Building full-stack web applications
++ 🌱 Strengthening frontend and backend development skills
 + 👯 Open for collaborations on innovative projects
-+ 💡 Exploring the intersection of code and creativity
-+ 📝 Writing poetry in Python and prose in JavaScript
++ 💡 Learning by building practical projects
++ 📝 Improving problem-solving and coding skills
 ! Check out my pinned repositories - where tech meets creativity
-# Fun Fact: Every bug is a metaphor, every feature a verse
+# Fun Fact: Every project is an opportunity to learn something new
 ```
 
 ---
@@ -110,8 +110,8 @@ me.say_hi()
 ┃ 👉 Check out my pinned repositories below            ┃
 ┃ ⭐ Each project tells a unique story                 ┃
 ┃                                                       ┃
-┃ 💡 From AI platforms to creative coding projects     ┃
-┃ 🏆 From hackathon winners to research work           ┃
+┃ 💡 From full-stack web applications to student projects┃
+┃ 🏆 From learning projects to practical solutions     ┃
 ┃                                                       ┃
 ┃ Don't just read—experience it yourself!               ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
